@@ -6,12 +6,14 @@
 /*   By: abelfany <abelfany@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/01/03 12:23:11 by abelfany          #+#    #+#             */
-/*   Updated: 2023/01/13 19:12:30 by abelfany         ###   ########.fr       */
+/*   Updated: 2023/01/16 15:17:45 by abelfany         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "minitalk.h"
 
+#include<stdio.h>
+ akjsdlaksjlaksjdlaksjdlaksdj
 int	_power(int nb, int power)
 {
 	if (power < 0)
